@@ -1,4 +1,8 @@
-notebook
+streamlit
 numpy
 pandas
+matplotlib
+seaborn
 scikit-learn
+PyPDF2
+python-docx
